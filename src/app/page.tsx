@@ -13,7 +13,7 @@ export default function Test() {
 
                 <iframe
                     id="myIframe"
-                    src="https://www-app-dev.mybundle.tv/ezee/start?iframe" // Change this to what ever iFrame you would like to load in.
+                    src="https://www-app-dev.mybundle.tv/ezee/start?iframe" // Change this to whatever iFrame you would like to load in.
                     scrolling="no"
                     style={{ width: '100%', display: 'block' }}
                 ></iframe>
